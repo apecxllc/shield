@@ -1,7 +1,7 @@
 {
   "name": "sword",
-  "description": "sword: A melee weapon",
-  "start_url": "sword.glb",
+  "description": "shield: A melee shield",
+  "start_url": "shield.glb",
   "components": [
     {
       "key": "wear",
