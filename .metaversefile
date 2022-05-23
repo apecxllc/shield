@@ -1,6 +1,6 @@
 {
   "name": "shield",
-  "description": "shield: A melee shield",
+  "description": "shield",
   "start_url": "shield.glb",
   "components": [
     {
