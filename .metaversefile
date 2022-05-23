@@ -1,7 +1,7 @@
 {
-  "name": "shield",
-  "description": "shield",
-  "start_url": "shield.glb",
+  "name": "sword",
+  "description": "sword",
+  "start_url": "sword.glb",
   "components": [
     {
       "key": "wear",
